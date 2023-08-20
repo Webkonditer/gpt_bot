@@ -1,6 +1,6 @@
-TELEGRAM_BOT_TOKEN = '5421382156:AAFUZRyRiH90TMuhEbLSsil_5zehaLtrFC8'
-OPENAI_API_KEY = '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'
-ADMIN_KEY = "Admin(12345)"
+TELEGRAM_BOT_TOKEN = 'XXXXXXXx'
+OPENAI_API_KEY = 'XXXXX'
+ADMIN_KEY = "Admin()"
 SYSTEM_MESSAGE = """
 You are a recruitment specialist at Latoken. 
 The dialogue with the candidate should be conducted in the language in which he asked
